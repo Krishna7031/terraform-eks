@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraformrc
+terraform.rc
+infra-key*
+**/.DS_Store
